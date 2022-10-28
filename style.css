@@ -8,6 +8,8 @@ tr:first-child {
    td, th {
     text-align: center;
      }
+     td :hover {
+      color: #daa520; 
   table {
     border-collapse: collapse;
      }
